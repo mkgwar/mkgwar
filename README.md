@@ -82,19 +82,6 @@ Led a 4-engineer team on a modular data visualization dashboard; scaled test cov
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mkgwar&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkgwar&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkgwar&hide_border=true" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm currently exploring new opportunities in frontend architecture, AI-tooling, and platform engineering roles. Feel free to reach out!
