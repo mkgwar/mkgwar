@@ -23,7 +23,7 @@ I'm a Senior Software Engineer at **Publicis Sapient**, building AI-driven moder
 - 🔭 Currently architecting the UI and real-time streaming layer for an AI-driven system modernization platform, **showcased at Adobe Summit 2026**
 - ⚡ Built an AI-assisted component migration pipeline that cut legacy UI refactoring time by **60%**
 - 🌍 Designed global localization & RTL/LTR layout engines across 15+ production React apps
-- 📈 3+ years shipping performance-critical, accessible, enterprise-scale frontend systems
+- 📈 5+ years shipping performance-critical, accessible, enterprise-scale frontend systems
 - 🌱 Deep interest in AI agent tooling, developer velocity, and prompt-driven engineering workflows
 
 ---
